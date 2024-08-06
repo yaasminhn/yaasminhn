@@ -16,3 +16,4 @@
 <a href="https://www.linkedin.com/in/yasmin-helena-573265211" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>       
 
 ## Obrigada pela visita! 
+![octocat-1722973342903](https://github.com/user-attachments/assets/9f0863e8-96b1-4bc0-9336-6284a0983a92"width="40"/>")
