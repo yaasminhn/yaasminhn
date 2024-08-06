@@ -16,6 +16,3 @@
 <a href="https://www.linkedin.com/in/yasmin-helena-573265211" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>       
 
 ## Obrigada pela visita! 
-<div> 
-<div class="tenor-gif-embed" data-postid="3558481" data-share-method="host" data-aspect-ratio="2.13734" data-width="100%"><a href="https://tenor.com/view/live-long-and-prosper-sheldon-big-bang-theory-gif-3558481">Live Long GIF</a>from <a href="https://tenor.com/search/live+long+and+prosper-gifs">Live Long And Prosper GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>  
