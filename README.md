@@ -3,8 +3,8 @@
 ## Hello there!  👋
 
 - 📫 Brasilia (DF)
-- 🌱 Sou uma futura cientista de dados que sempre esta em busca de novos conhecimentos e ferramentas!
-- 😄 Atualmente estou no 5º semestre do curso Ciência de dados e Machine learning do UNICEUB 
+- 🌱 Sempre esta em busca de novos conhecimentos e ferramentas!
+- 😄 Formada em Ciência de dados e Machine learning do UNICEUB 
 
 
 ## Ferramentas 
